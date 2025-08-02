@@ -25,7 +25,7 @@ const projects = [
       "A weather app using Flask and HTML/Bootstrap that fetches real-time weather data.",
     url: "https://github.com/wwwaqas2003/Learn-X",
     demo: "#",
-    image: LearnX,
+    image: ai-based,
   },
   {
     title: "Bit IEEE Conference Webpage",
