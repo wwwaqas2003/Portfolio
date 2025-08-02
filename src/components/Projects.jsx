@@ -35,14 +35,15 @@ const projects = [
     demo: "https://bit-ieee.netlify.app/",
     image: ieeeSite,
   },
-  {
-    title: "IRIS MODEL",
-    description:
-      "Jupyter Notebook showcasing clustering and modeling techniques using the IRIES dataset.",
-    url: "https://github.com/Adarsh130/IRIES_MODEL",
-    demo: "https://github.com/Adarsh130/IRIES_MODEL",
-    image: iriesModel,
-  },
+{
+  title: "Weather App",
+  description:
+    "A dynamic weather dashboard that fetches real-time weather data using the OpenWeather API, with responsive UI, animated icons, and live background updates based on current weather conditions.",
+  url: "https://github.com/wwwaqas2003/weather",
+  demo: "https://wjweather.netlify.app/",
+  image: weather, // Replace this with your actual imported image variable
+}
+
   {
     title: "Insurance Prediction",
     description:
