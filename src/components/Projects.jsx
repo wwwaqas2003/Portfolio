@@ -6,26 +6,24 @@ import ieeeSite from "../assets/projects/ieee.png";
 import iriesModel from "../assets/projects/iries.png";
 import insurance from "../assets/projects/insurance.png";
 import diabetes from "../assets/projects/diabetes.png";
-import bitlibrary from "../assets/projects/bitlibrary.png"; // ✅ Add this line
-
+import bitlibrary from "../assets/projects/bitlibrary.png";
 
 const projects = [
-{
-  title: "BIT Library – Web Portal",
-  description:
-    "A responsive and feature-rich library management website for BIT, supporting book issue/return, donations, blogs, and quizzes.",
-  url: "https://github.com/wwwaqas2003/BIT_IEEE_website",
-  demo: "https://bit-library.netlify.app/", 
-  image: bitlibrary,
-},
-
+  {
+    title: "BIT Library – Web Portal",
+    description:
+      "A responsive and feature-rich library management website for BIT, supporting book issue/return, donations, blogs, and quizzes.",
+    url: "https://github.com/wwwaqas2003/BIT_IEEE_website",
+    demo: "https://bit-library.netlify.app/",
+    image: bitlibrary,
+  },
   {
     title: "Learn X",
     description:
       "LearnX is an AI-powered learning platform offering interactive tools, smart resources, and progress tracking to help students study smarter.",
     url: "https://github.com/wwwaqas2003/Learn-X",
     demo: "#",
-    image: ai-based,
+    image: aibased,
   },
   {
     title: "Bit IEEE Conference Webpage",
@@ -35,15 +33,14 @@ const projects = [
     demo: "https://bit-ieee.netlify.app/",
     image: ieeeSite,
   },
-{
-  title: "Weather App",
-  description:
-    "A dynamic weather dashboard that fetches real-time weather data using the OpenWeather API, with responsive UI, animated icons, and live background updates based on current weather conditions.",
-  url: "https://github.com/wwwaqas2003/weather",
-  demo: "https://wjweather.netlify.app/",
-  image: weather, // Replace this with your actual imported image variable
-}
-
+  {
+    title: "Weather App",
+    description:
+      "A dynamic weather dashboard that fetches real-time weather data using the OpenWeather API, with responsive UI, animated icons, and live background updates based on current weather conditions.",
+    url: "https://github.com/wwwaqas2003/weather",
+    demo: "https://wjweather.netlify.app/",
+    image: weatherApp,
+  },
   {
     title: "Insurance Prediction",
     description:
