@@ -59,7 +59,7 @@ const Contact = () => {
             className="flex items-center gap-4 px-6 py-4 bg-white dark:bg-gray-800 rounded-2xl shadow-md hover:shadow-xl transition-all hover:scale-105 text-gray-800 dark:text-white"
           >
             <FaLinkedin className="text-2xl text-blue-700" />
-            <span>linkedin.com/in/waqas2003</span>
+            <span>linkedin.com/in/wwwaqas2003</span>
           </a>
           <a
             href="https://instagram.com/ft.waqas"
