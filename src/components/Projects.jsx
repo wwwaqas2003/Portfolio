@@ -20,12 +20,12 @@ const projects = [
 },
 
   {
-    title: "Weather APP",
+    title: "Learn X",
     description:
       "A weather app using Flask and HTML/Bootstrap that fetches real-time weather data.",
-    url: "https://github.com/Adarsh130/Weather_APP",
-    demo: "https://weather-app-by-adarsh.up.railway.app/",
-    image: weatherApp,
+    url: "https://github.com/wwwaqas2003/Learn-X",
+    demo: "#",
+    image: LearnX,
   },
   {
     title: "Bit IEEE Conference Webpage",
