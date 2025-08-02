@@ -22,7 +22,7 @@ const projects = [
   {
     title: "Learn X",
     description:
-      "A weather app using Flask and HTML/Bootstrap that fetches real-time weather data.",
+      "LearnX is an AI-powered learning platform offering interactive tools, smart resources, and progress tracking to help students study smarter.",
     url: "https://github.com/wwwaqas2003/Learn-X",
     demo: "#",
     image: ai-based,
