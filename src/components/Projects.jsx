@@ -14,7 +14,7 @@ const projects = [
     title: "Simify – Spotify Song Recommender",
     description:
       "A dynamic web app built with Python and Flask that recommends similar songs using Spotify’s API. Users can input a track and get personalized music suggestions based on audio features, genre, and mood.",
-    url: "https://github.com/wwwaqas2003/Main-Simify-recommender",
+    url: "https://github.com/wwwaqas2003/Simify-Spotify-recomm",
     demo: "https://recomm-waqas.vercel.app/", // update this if hosted elsewhere
     image: simify, 
   },
