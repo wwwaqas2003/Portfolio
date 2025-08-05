@@ -18,6 +18,13 @@ const experiences = [
   },
   {
     year: "2025",
+    role: "Simify – Spotify Song Recommender",
+    description:
+      "Engineered a Flask-based music recommendation system using Spotify's API to deliver similar songs by analyzing genre, artist, and audio features. Built with Python and deployed with styled HTML UI.",
+    icon: <FaRobot className="text-2xl text-blue-600 dark:text-blue-300" />,
+  },
+  {
+    year: "2025",
     role: "NuroFi – AI-Powered Crypto Prediction",
     description:
       "Built a platform using Python, Django, and TensorFlow to forecast crypto trends using LSTM models and real-time tracking.",
