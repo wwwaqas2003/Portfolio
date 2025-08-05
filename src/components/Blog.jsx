@@ -3,6 +3,12 @@ import { FaRegCalendarAlt } from "react-icons/fa";
 
 const blogPosts = [
   {
+    title: "Simify – AI-Powered Spotify Song Recommender",
+    date: "August 2025",
+    summary:
+      "Built a Flask-based music recommendation engine using the Spotify API. Users can enter any song and receive 5 intelligent recommendations based on audio features like tempo, energy, genre, and artist similarity. Integrated with a clean HTML UI and deployed on Railway.",
+  },
+  {
     title: "Building NuroFi – AI-Powered Crypto Market Predictor",
     date: "July 2025",
     summary:
@@ -27,6 +33,7 @@ const blogPosts = [
       "Built a modular website offering restaurant ordering, mini-games, and tools using HTML, CSS, JS, and PHP. Focused on responsiveness and modular design.",
   },
 ];
+
 
 const Blog = () => {
   return (
